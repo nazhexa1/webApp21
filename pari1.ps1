@@ -1,7 +1,7 @@
 Import-Module WebAdministration
 $iisAppPoolName = "WebApplication10"
 $iisAppPoolDotNetVersion = "v4.0"
-$iisAppName = "WebApplication500"
+$iisAppName = "WebApplication50"
 $directoryPath = "C:\inetpub\wwwroot\WebApplication10"
 
 #navigate to the app pools root
